@@ -1,0 +1,2 @@
+[EL Info]: 2014-04-21 13:41:53.719--ServerSession(1816891879)--EclipseLink, version: Eclipse Persistence Services - 2.5.0.v20130507-3faac2b
+[EL Info]: connection: 2014-04-21 13:41:53.904--ServerSession(1816891879)--file:/C:/Users/vominhtung/pizzashop/target/classes_persistenceUnit login successful
